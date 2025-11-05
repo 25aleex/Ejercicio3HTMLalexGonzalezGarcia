@@ -88,3 +88,54 @@
 
 </body>
 </html>
+
+
+Estructura base del documento
+
+Arranqué con el <!DOCTYPE html>, las etiquetas <html>, <head> y <body>.
+
+Configuré idioma (lang="es"), codificación (UTF-8) y el viewport para móviles.
+
+Le puse título a la web: Sabores DAM.
+
+Encabezado con identidad del restaurante
+
+Añadí <header> con una figura y un <figcaption> para describir visualmente el sitio.
+
+Coloqué un <h1> con el nombre del restaurante.
+
+Sección del menú del día
+
+Cree un <section> ppara accesibilidad.
+
+Le di título con <h2> y un <table> bien estructurado:
+
+<caption> explicando de qué va la tabla.
+
+<thead> con los encabezados.
+
+<tbody> con los platos, tipos y precios.
+
+<tfoot> para poner el menu.
+
+Info adicional (detalles desplegables)
+
+
+Servicios del restaurante
+
+Utilicé <article> porque es contenido independiente e informativo.
+
+Listita <ul> con cositas útiles (terraza, pago con tarjeta).
+
+Aside con datos prácticos
+
+Añadí <aside> para información complementaria.
+
+Usé una lista de definiciones <dl>, <dt>, <dd> para horarios, accesibilidad, 
+
+
+Footer con contacto realista
+
+<footer> + <address> con dirección, teléfono clicable, email y web.
+
+Añadí el copyrightt
