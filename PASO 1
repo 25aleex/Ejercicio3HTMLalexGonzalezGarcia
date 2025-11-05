@@ -56,4 +56,21 @@
           Para llevar
       </ul>
     </article>
+   <aside aria-labelledby="titulo-aside">
+      <h2 id="titulo-aside">Información práctica</h2>
+      <dl>
+        <dt>Horario</dt>
+        <dd>Lunes a sábado: 12:00–23:00</dd>
+        <dd>Domingos: 12:00–17:00</dd>
+
+        <dt>Accesibilidad</dt>
+        <dd>Entrada adaptada y baño accesible.</dd>
+
+        <dt>Aparcamiento</dt>
+        <dd>Zona de estacionamiento gratuito para clientes.</dd>
+
+        <dt>Recomendación</dt>
+        <dd>Se aconseja reservar mesa los fines de semana.</dd>
+      </dl>
+    </aside>
 
