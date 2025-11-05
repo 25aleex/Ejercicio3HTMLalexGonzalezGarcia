@@ -33,3 +33,16 @@
         </tfoot>
       </table>
     </section>
+
+    <section aria-labelledby="titulo-info-adicional">
+      <h2 id="titulo-info-adicional">Información adicional</h2>
+      <details>
+        <summary>Información de alérgenos</summary>
+        <ul>
+          <li>Puede contener trazas de gluten y frutos secos.</li>
+          <li>Platos con lácteos identificados en carta.</li>
+          <li>Disponibles opciones sin gluten bajo petición.</li>
+          <li>Consulte al personal por mariscos y huevos.</li>
+        </ul>
+      </details>
+    </section>
