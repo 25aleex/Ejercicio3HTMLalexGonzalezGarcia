@@ -1,18 +1,35 @@
-EJERCICIO HTML SABORES DAM
 <!DOCTYPE html>
-<html>
-   <head>
-      <title>SABORES DAM</title>
-   </head>
-   <body>
-      <header>
-         <h1>SABORES DAM</h1>
-      </header>
-      <main>
-         <h2></h2>
-         <p></p>
-      </main>
-      <footer>
-      </footer>
-   </body>
-</html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width" />
+  <title>Sabores DAM</title>
+</head>
+<body>
+  <header>
+    <figure>
+      <figcaption>Restaurante Sabores DAM</figcaption>
+    </figure>
+    <h1>Sabores DAM</h1>
+  </header>
+
+  <main>
+    <section id="menu del dia" aria-labelledby="titulo menu">
+      <h2 id="titulo menu">Menú del día</h2>
+      <table>
+        <caption>Menú disponible de lunes a viernes</caption>
+        <thead>
+          <tr><th>Plato</th><th>Tipo</th><th>Precio</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>Ensalada de quinoa con cítricos</td><td>Entrante</td><td>6,50 €</td></tr>
+          <tr><td>Crema de calabaza asada</td><td>Entrante</td><td>5,90 €</td></tr>
+          <tr><td>Cachopo asturiano clásico</td><td>Principal</td><td>12,90 €</td></tr>
+          <tr><td>Merluza al horno con patata panadera</td><td>Principal</td><td>11,80 €</td></tr>
+          <tr><td>Arroz con leche cremoso</td><td>Postre</td><td>4,50 €</td></tr>
+        </tbody>
+        <tfoot>
+          <tr><td colspan="3">Menú completo (entrante + principal + postre): 15 € — Bebida no incluida</td></tr>
+        </tfoot>
+      </table>
+    </section>
