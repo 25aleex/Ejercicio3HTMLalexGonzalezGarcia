@@ -46,3 +46,14 @@
         </ul>
       </details>
     </section>
+    <article aria-labelledby="titulo-servicios">
+      <h2 id="titulo-servicios">Nuestros servicios</h2>
+      <ul>
+        <li>Terraza exterior</li>
+        <li>Menú infantil</li>
+        <li>Pago con tarjeta</li>
+        <li>
+          Para llevar
+      </ul>
+    </article>
+
